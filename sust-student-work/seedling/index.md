@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/IMG_5564.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/IMG_5564.jpg
+header-image: images/seth-header.jpg
 header-title:
 header-position: 0px
 toc-section: first
