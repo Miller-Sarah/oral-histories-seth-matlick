@@ -1,8 +1,6 @@
 ---
 title: Seth Matlick and Vida Verde Farms
-author: - Erin Elder 
-        - Sarah Miller
-        - Minni Metcalfe
+author: - Erin Elder, Sarah Miller, Minni Metcalfe
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/IMG_5564.jpg
@@ -44,14 +42,17 @@ Much of the process involves learning from the land; as the seasons change and g
 
 ### The Real Cost of Small Farming
 Seth is very honest about the realities of small-scale farming, especially when it comes to money and labor. He makes it clear that farming isn’t a quick or easy way to make a profit. There’s a huge amount of time and effort that goes into growing food; months of planting, watering, maintaining, harvesting, and transporting before the food ever reaches a customer.
+
 {% include media/audio.html
   src="audio/cost-of-small-farming.mp3"
 %}
+
 He describes how people sometimes question the price of food at farmers’ markets, not realizing how much work goes into growing. What looks like a simple product actually represents hundreds of hours of labor and a significant amount of risk, especially with unpredictable weather like hailstorms that can wipe out entire crops in minutes.
 At the same time, Seth understands that not everyone can afford local food, and he doesn’t judge people for choosing cheaper options. Instead, he tries to create a middle ground; offering food that is local, healthy, and produced with care, while helping people understand its value. This balance reflects the challenges of maintaining both a livelihood and a community-centered food system.
 
 ## Community and Relationships in Local Food Systems
 {% include images/figure.html class="right" width="60%" caption="Nappa cabbage grown at Vida Verde Farm. [Source](@vidaverdefarmabq)" image-path="images/napa-cabbage.jpg" %}
+
 A major part of Seth’s farm is built on relationships rather than large-scale distribution. He works directly with chefs, customers, and other farmers, creating a network that supports both his farm and the broader local food system.
 He doesn’t rely on traditional marketing or branding. Instead, he has built trust over time by consistently showing up and maintaining personal connections with the people he works with. He even describes himself as the “face” of the farm, meaning that customers often meet him directly and can ask questions about how their food was grown. 
 Selling to both markets and restaurants helps engage with customers and the food system as a whole. Seth is passionate about integrating into the whole food system, and as a cook, he understands how each ingredient is used, helping him connect to customers and the chefs he sells to. One valuable collaboration is his production of Napa cabbage for Oni (a restaurant in downtown ABQ) to make kimchi. Using his knowledge of cabbage growing conditions, he worked with this business to make kimchi from a new cabbage variety that is more suitable to the NM climate. 
@@ -66,7 +67,6 @@ Ultimately, he loves the farm, the community, and the opportunity of working out
 {% include media/audio.html
   src="audio/last-quote.mp3"
 %}
-
 
 {% include typography/aside.html class="right" text="
 Farming provides something tangible; putting a face to who grows your food is comforting." %}
