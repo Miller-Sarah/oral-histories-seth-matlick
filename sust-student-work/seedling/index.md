@@ -1,6 +1,8 @@
 ---
 title: Seth Matlick and Vida Verde Farms
-author: Erin Elder, Sarah Miller, Minni Metcalfe
+author: - Erin Elder 
+        - Sarah Miller
+        - Minni Metcalfe
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/IMG_5564.jpg
@@ -26,7 +28,7 @@ What changed everything was when he started traveling after college and found WW
 
 
 ## Start of Vida Verde Farms
-{% include images/figure.html
+{% include images/hoop-house.jpg
 class="right"
 width="48%"
 caption="A hoop house at Vida Verde Farm. [Source](@vidaverdefarmabq)"
