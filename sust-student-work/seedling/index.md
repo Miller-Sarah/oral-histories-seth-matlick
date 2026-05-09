@@ -1,6 +1,6 @@
 ---
 title: Seth Matlick and Vida Verde Farms
-author: - Erin Elder, Sarah Miller, Minni Metcalfe
+author: Erin Elder, Sarah Miller, Minni Metcalfe
 layout: scrollstory
 date: 2025-07-21
 thumbnail: images/IMG_5564.jpg
