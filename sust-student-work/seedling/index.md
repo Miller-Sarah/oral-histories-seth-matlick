@@ -26,12 +26,12 @@ What changed everything was when he started traveling after college and found WW
 
 
 ## Start of Vida Verde Farms
-{% include images/hoop-house.jpg
+"{% include images/hoop-house.jpg
 class="right"
 width="48%"
 caption="A hoop house at Vida Verde Farm. [Source](@vidaverdefarmabq)"
 image-path="images/hoop-house.jpg"
-%}
+%}"
 
 Seth Matlick’s story of his farming journey at Vida Verde is one of innovation, connection and resiliency. It began after his WWOOFing experience at Los Poblanos farm, through which he fell in love with New Mexico and “the Southwest pace of life.” Instead of continuing his travels, he accepted an opportunity to farm on an acre of land in the North Valley, left by the farmer he had worked for. 
 
